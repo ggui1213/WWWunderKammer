@@ -73,23 +73,23 @@ MonoBehaviour:
   m_Name: Android
   m_EditorClassIdentifier: 
   features:
-  - {fileID: 8974854270873334879}
-  - {fileID: -176609163911715219}
-  - {fileID: 3595441527860771050}
-  - {fileID: -2745573789074381409}
   - {fileID: 9054695047166730894}
-  - {fileID: 442491130086938600}
   - {fileID: 2627126824434902734}
-  - {fileID: -209268122402265556}
-  - {fileID: -2910923026828295904}
-  - {fileID: -4611304568220221493}
-  - {fileID: -271556689580629115}
-  - {fileID: 2787848055289402491}
-  - {fileID: -6112996222494587647}
-  - {fileID: -7146597288053990046}
-  - {fileID: 751812122064642727}
-  - {fileID: 5110241913569511976}
+  - {fileID: 442491130086938600}
   - {fileID: 5119287661928134711}
+  - {fileID: -209268122402265556}
+  - {fileID: -271556689580629115}
+  - {fileID: -4611304568220221493}
+  - {fileID: -2745573789074381409}
+  - {fileID: -7146597288053990046}
+  - {fileID: -6112996222494587647}
+  - {fileID: -2910923026828295904}
+  - {fileID: 3595441527860771050}
+  - {fileID: -176609163911715219}
+  - {fileID: 2787848055289402491}
+  - {fileID: 751812122064642727}
+  - {fileID: 8974854270873334879}
+  - {fileID: 5110241913569511976}
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
@@ -111,7 +111,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5a1f07dc5afe854f9f12a4194aca3fb, type: 3}
   m_Name: WebGL
   m_EditorClassIdentifier: 
-  features: []
+  features:
+  - {fileID: -7085487541767713076}
   m_renderMode: 1
   m_autoColorSubmissionMode: 1
   m_colorSubmissionModes:
@@ -154,11 +155,11 @@ MonoBehaviour:
   m_Name: XrPerformanceSettingsFeature WebGL
   m_EditorClassIdentifier: 
   m_enabled: 0
-  nameUi: 
-  version: 
-  featureIdInternal: 
-  openxrExtensionStrings: 
-  company: 
+  nameUi: XR Performance Settings
+  version: 1.0.0
+  featureIdInternal: com.unity.openxr.feature.extension.performance_settings
+  openxrExtensionStrings: XR_EXT_performance_settings
+  company: Unity
   priority: 0
   required: 0
 --- !u!114 &-6970068966130883047
