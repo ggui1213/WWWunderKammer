@@ -1,0 +1,164 @@
+newmtl DemoSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd roof.jpg
+Ni 1.00
+newmtl DemoSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Skyscr_01_B.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl DemoSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd windows.jpg
+Ni 1.00
+Ks 0.04 0.04 0.04
+newmtl DemoSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Skyscr_01_B.psd
+Ni 1.00
+newmtl DemoSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Skyscr_01_B.jpg
+Ni 1.00
+newmtl DemoSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd buildingSkin03.jpg
+Ni 1.00
+Ks 0.13 0.13 0.13
+newmtl DemoSG6
+illum 4
+Kd 0.02 1.00 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl DemoSG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd roof.jpg
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinetVideoGameEntrance07.jpg
+Ni 1.00
+Ks 0.18 0.00 0.18
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd groundPlaneForVideoGameEntrance.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tree02.jpg
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tree01.jpg
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tree03.jpg
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tree04.jpg
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rock01.jpg
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rock02.jpg
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rock03.jpg
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rock04.jpg
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rock05.jpg
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rock06.jpg
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tree10.jpg
+Ni 1.00
+newmtl phongE1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinetVideoGameEntrance07.jpg
+Ni 1.00
+Ks 0.31 0.31 0.31

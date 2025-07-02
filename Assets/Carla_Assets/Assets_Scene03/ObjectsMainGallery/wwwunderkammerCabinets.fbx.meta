@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 65039a811d9034740b36e1045f952794
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AI_Figures
+    second: {fileID: 2100000, guid: 4cda3a60c5490ae4baf9810455267884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EndangeredSpecies_WildBactrianCamel_lambert2
+    second: {fileID: 2100000, guid: 33ff0ae5e3da3ce4aa8abed7feb6d232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: R2D3
+    second: {fileID: 2100000, guid: 0d48b07d5d946f7438c54f44da3aa0fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bison
+    second: {fileID: 2100000, guid: 653f38139d0bc304ea8c32e80aa7c18f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1SG1
+    second: {fileID: 2100000, guid: cce34fa741cf6124da45f3158141be5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: f2c2864211cebc74cbb843e6013faca9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: books15
+    second: {fileID: 2100000, guid: e4e7e76d68873104cb2cd86de6f13165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cab_end
+    second: {fileID: 2100000, guid: 92b3d7fb6711bcf4a9444c500ae33108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cab_stacked
+    second: {fileID: 2100000, guid: 650de378657cd614e9343ffcee3f9e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetCamelShiny
+    second: {fileID: 2100000, guid: 3ef4e24fc6e57c84f909f303e32b16d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetLower
+    second: {fileID: 2100000, guid: 93cb3a2c9799cd34884921ce4c732330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetNetworks_01
+    second: {fileID: 2100000, guid: 3dfe6d11b0a5cdd4eb78ea15930f23c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetNetworks_02
+    second: {fileID: 2100000, guid: 6b98cb3ccf5c99742ba219117e385b5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetNetworks_03
+    second: {fileID: 2100000, guid: 4fd31dc231642ef42ab7080adef58ca3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetNetworks_04
+    second: {fileID: 2100000, guid: c144283278b45504180c0c213bfa563f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetOliver1
+    second: {fileID: 2100000, guid: ee41875564201a14cb39ae8ae08800a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetPolitics_04
+    second: {fileID: 2100000, guid: a84d63a4ef244cc488d613a7bef4267d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetR2D2Robota
+    second: {fileID: 2100000, guid: a7a64e54c9979764eb1874ddb7a3a5b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetRobots
+    second: {fileID: 2100000, guid: f028bfb57b721eb458abb78221111ff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetSidePolitics1
+    second: {fileID: 2100000, guid: 773829031d3700846bd929e9e68e29b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinet_BisonFlat
+    second: {fileID: 2100000, guid: de47bea8d82c62e4aa25b0c767883b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinet_BisonShiny
+    second: {fileID: 2100000, guid: de47bea8d82c62e4aa25b0c767883b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetsHoneycomb02
+    second: {fileID: 2100000, guid: b3e1e7f6599621141aedaeb5b000f913, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetsHoneycombRt
+    second: {fileID: 2100000, guid: a266c24b14e81074e99e511e9090295d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinettechnology01
+    second: {fileID: 2100000, guid: 650de378657cd614e9343ffcee3f9e42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frontCabinetsBase
+    second: {fileID: 2100000, guid: bd111431f3c3a324a82a677c1e15ce12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert101
+    second: {fileID: 2100000, guid: 93d7d0c5b0d5cf643b91175af5705b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert102
+    second: {fileID: 2100000, guid: 7e29c669d5b0b584aac0fbea0754aadb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert103
+    second: {fileID: 2100000, guid: ef3ae3757f723e44796528b63ca97d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert104
+    second: {fileID: 2100000, guid: c53b4f9eec1dab541bf1e5932d3c84ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert105
+    second: {fileID: 2100000, guid: 2cb9773243f334542bcbdb2d47a0f444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert106
+    second: {fileID: 2100000, guid: 36b2b46830ea963468ca6a56e57353a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert107
+    second: {fileID: 2100000, guid: 96eb59dbfab269d4f8bd13825bfd408d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10SG
+    second: {fileID: 2100000, guid: 6a7b2a35e9d76ac4f970ef15a22abd8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert110
+    second: {fileID: 2100000, guid: aa84ca78d7fed714284e0ce8fb83744d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert113
+    second: {fileID: 2100000, guid: aa84ca78d7fed714284e0ce8fb83744d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert114
+    second: {fileID: 2100000, guid: c53b4f9eec1dab541bf1e5932d3c84ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert117
+    second: {fileID: 2100000, guid: d78623805ce75cb4998cb90833db9b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert119
+    second: {fileID: 2100000, guid: 3ef4e24fc6e57c84f909f303e32b16d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert35
+    second: {fileID: 2100000, guid: f028bfb57b721eb458abb78221111ff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metallicObject
+    second: {fileID: 2100000, guid: 4857400cdff436540a9f9a3f8ec16a2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objects_shdr
+    second: {fileID: 2100000, guid: 40f38e8b0e8a83a45b25b4933aa413e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sheepWHorns_lambert8SG
+    second: {fileID: 2100000, guid: 8f3529ea7d3c10b4eb257dbfd369eefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sheepWHorns_lambert9SG
+    second: {fileID: 2100000, guid: b23ec6f91ffab7b4dacfb236d4d2fb91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sheepWHorns_phong5SG
+    second: {fileID: 2100000, guid: 77c0848965f164e49a6d94f53c1a3364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sheepWHorns_phongE3SG
+    second: {fileID: 2100000, guid: bb29f9e934f25b94493d2d163f751006, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sheepWHorns_wire_006134006
+    second: {fileID: 2100000, guid: b8375510e4ff51949aeb5ddb1217e522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sideCab_txtr
+    second: {fileID: 2100000, guid: 20f0c0b8f3a14664fb6c0b3b3d0f133f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tipoosTiger_MeshSG1
+    second: {fileID: 2100000, guid: f766e7e1cb7a7ac4fa9667a7ce38529d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 32
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

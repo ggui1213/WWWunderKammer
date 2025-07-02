@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: 1707c764317dc60479316f69939c8c3a
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_01_A1Mat
+    second: {fileID: 2100000, guid: 0544f727b988cd348bfd3ad55c654ab5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_01_AMat
+    second: {fileID: 2100000, guid: 5968438a3b211f14da7bbfdf6b1a2de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_01_B1Mat
+    second: {fileID: 2100000, guid: ceeffc40f0d30fc4f878eacff50c6924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_01_B2Mat
+    second: {fileID: 2100000, guid: d0cfe610beac2c745947030409cfc5b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_01_BMat
+    second: {fileID: 2100000, guid: cfc80535d8e877c44aab08493d58a769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_01_C1Mat
+    second: {fileID: 2100000, guid: f0c174ebcf3bdbb4e843cf27523f232e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_01_CMat
+    second: {fileID: 2100000, guid: 54fbbe2e24925be4c9773b649051c8d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_01_D1Mat
+    second: {fileID: 2100000, guid: 646b90c98266bfb40ba60386a2c368c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_01_DMat
+    second: {fileID: 2100000, guid: ac23e371f44c5594f800bdb15a7a999d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_02_A1Mat
+    second: {fileID: 2100000, guid: 958878e5c2a70e04295bee94a9ef2d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_02_A2Mat
+    second: {fileID: 2100000, guid: c7d5eb5c628486a46a0ca9d855187c30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_02_AMat
+    second: {fileID: 2100000, guid: 9b9866645acab784d9c81c30d2d7bd10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_02_B1Mat
+    second: {fileID: 2100000, guid: bc1720f922dd3084b92d427799a2c4c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_02_BMat
+    second: {fileID: 2100000, guid: e6cba292315a73c40b70dae8c1888938, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_02_C1Mat
+    second: {fileID: 2100000, guid: c4e020ae565062b4488f1fd90588cf82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_02_CMat
+    second: {fileID: 2100000, guid: 67d7eff6d0ea5014bbfbc8cf52df18a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_02_D1Mat
+    second: {fileID: 2100000, guid: 8545f9674fc25f646be9336fe5d34984, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_02_DMat
+    second: {fileID: 2100000, guid: 52f7a280d8cfa404bbe92ddf12fa6f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_03_A1Mat
+    second: {fileID: 2100000, guid: 0803baf23993dac44a1ce1346f4c10a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_03_AMat
+    second: {fileID: 2100000, guid: 4bcb9ae82b9e9904e8cbee36ae11b99a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_03_B1Mat
+    second: {fileID: 2100000, guid: 0edc3b80c5c71f341aaa85f82eb68e18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_03_BMat
+    second: {fileID: 2100000, guid: a62a08cb984cb434d9a768cfa697d4bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_03_CMat
+    second: {fileID: 2100000, guid: 7590b1514c89d2e43acc2324bfd6b51d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_03_D1Mat
+    second: {fileID: 2100000, guid: e82362ec1853db34a9efd5df185cd3f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_03_DMat
+    second: {fileID: 2100000, guid: c2f5f14f316613442a698b9b9fd4a20c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_04_A1Mat
+    second: {fileID: 2100000, guid: 48cee3f553614004386b5f37ed5a16f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_04_AMat
+    second: {fileID: 2100000, guid: 5415c8a6101c18740ac127b7c2d58ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_04_B1Mat
+    second: {fileID: 2100000, guid: 26ffd0e22626024408a731c5c12dde54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_04_BMat
+    second: {fileID: 2100000, guid: 63903bf2437be4b48bdc43df9414a9cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_04_C1Mat
+    second: {fileID: 2100000, guid: 1ba608f74ca61364aa1d3d11ab1ff790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_04_CMat
+    second: {fileID: 2100000, guid: 2633aecc21546054d974ff96ff927ecd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_04_D1Mat
+    second: {fileID: 2100000, guid: 83cba7d318a12184880eff82ce20afde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_04_DMat
+    second: {fileID: 2100000, guid: bee595c94bf791449b56eeaa8df31f6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_A1Mat
+    second: {fileID: 2100000, guid: df0dc6275ca9ca443b3aa2859a98ce72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_A2Mat
+    second: {fileID: 2100000, guid: 5fba6ff9627d22144a828bf414628d77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_AMat
+    second: {fileID: 2100000, guid: a3c84df637ec826499865dbd55616159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_B1Mat
+    second: {fileID: 2100000, guid: 6835c2eccdfd83d47a4ce5d9c65d62c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_BMat
+    second: {fileID: 2100000, guid: 969076fc500ebd44aa8a78fe19e2395a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_C1Mat
+    second: {fileID: 2100000, guid: 0641307c4a6ffb547a7defbc064243e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_C2Mat
+    second: {fileID: 2100000, guid: a6b5b89d77ec4394293e2c5c8ec96622, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_CMat
+    second: {fileID: 2100000, guid: fc578ed406835124b987a1710c8b8258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_D1Mat
+    second: {fileID: 2100000, guid: bbc2fc60070c71f4182e9b9905c37cce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_D2Mat
+    second: {fileID: 2100000, guid: 2ad75b53a40abca47a56e99e547db187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_05_DMat
+    second: {fileID: 2100000, guid: aaa3549a3ff80cd40b3b7ec909e28786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_06_A1Mat
+    second: {fileID: 2100000, guid: ba108b2c885fed24f9c64051340b51ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_06_A2Mat
+    second: {fileID: 2100000, guid: d3a7fa4364b1afb48bf741ff2d3fcaad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_06_AMat
+    second: {fileID: 2100000, guid: 0ea101dbf950d5a42a3faa33717a1578, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_06_B1Mat
+    second: {fileID: 2100000, guid: 522c1cb2457d4314e850c34a29760e12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_06_B2Mat
+    second: {fileID: 2100000, guid: 6842754a867c84b459fbb0077942ad45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_06_BMat
+    second: {fileID: 2100000, guid: 61ae545776d9abe47bedb65becb9e5f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_07_A1Mat
+    second: {fileID: 2100000, guid: 283f49ae2c456034c97b088e1f43f11e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_07_AMat
+    second: {fileID: 2100000, guid: e3f9d39340402734991bfb3b8472f362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_07_B1Mat
+    second: {fileID: 2100000, guid: 433b3a32bf6f5984a8b28afacb43ac9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_07_B2Mat
+    second: {fileID: 2100000, guid: 33f60fa9fdcbe9c448614c6897271390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_07_BMat
+    second: {fileID: 2100000, guid: 8c06051244afc534a90e9c8674df399f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_07_C1Mat
+    second: {fileID: 2100000, guid: f726d41d25210b14597b1d14760bb43f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_07_CMat
+    second: {fileID: 2100000, guid: d9e63d2b24ad05e4ba8c04e653f73c49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_07_D1Mat
+    second: {fileID: 2100000, guid: f3aa9e3f8d035864f9b90b294e19531e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_07_DMat
+    second: {fileID: 2100000, guid: 3366aa6817fdd334fb213038a3b3f183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_08_A1Mat
+    second: {fileID: 2100000, guid: bee995ef3f3150e47a076be445df0038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_08_AMat
+    second: {fileID: 2100000, guid: 938515918b0e56a4d9894101761e332c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_09_A1Mat
+    second: {fileID: 2100000, guid: 53a50eedb4c66d04ea9120d340f81e8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_09_AMat
+    second: {fileID: 2100000, guid: a2e50fc12940949439ffea75b33bfcb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_09_B1Mat
+    second: {fileID: 2100000, guid: 657150c54f5b58a4b9945d16ee6c1539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_09_BMat
+    second: {fileID: 2100000, guid: f91c7737a494c0541a7fcfa75103cd6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_09_C1Mat
+    second: {fileID: 2100000, guid: 6ccfdc021a8f43646abf85ba208785f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_09_CMat
+    second: {fileID: 2100000, guid: ff5c2e61fa772f24eb705cf9cc36ceaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_09_D1Mat
+    second: {fileID: 2100000, guid: 8a0aa294469704e4882d9e4cb0d1dde2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_09_DMat
+    second: {fileID: 2100000, guid: fe23a22215256e147813b5098347f525, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_10_A1Mat
+    second: {fileID: 2100000, guid: bca9be5748045fc4b8cb57ccc412372b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_10_AMat
+    second: {fileID: 2100000, guid: 8088ed148192978408c96bea45dde93d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_10_B1Mat
+    second: {fileID: 2100000, guid: c1fdb3491ffa59941aae97a98b042801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_10_BMat
+    second: {fileID: 2100000, guid: 03f9aa04febc61a43b336e8e51aeaac9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_10_C1Mat
+    second: {fileID: 2100000, guid: ceea7ad02c1a19d45bbd748fb365adca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City_Skyscr_10_CMat
+    second: {fileID: 2100000, guid: 7d387513088f9d64eb496933438ecf9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skyscr_03_C1_CityMat
+    second: {fileID: 2100000, guid: 591467bda6480ab4582790daf898b854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabinetVidGameEntranceMat
+    second: {fileID: 2100000, guid: a1b60fc9622adc948931fab42acb9249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground1_plane1Mat
+    second: {fileID: 2100000, guid: f118d11122fb35641ba3c5b8d5ca36e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground1_plane2Mat
+    second: {fileID: 2100000, guid: 8f34af9e6a76263448b21211ceafc130, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ground1_plane3Mat
+    second: {fileID: 2100000, guid: a72ba97e3cd509a4990e6878a7628922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plane_ground1Mat
+    second: {fileID: 2100000, guid: a75964d506b2c324184bdb5a53f3f356, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree10_treesMat
+    second: {fileID: 2100000, guid: bd2e1fa69d641c74d8d5e73b06ca469b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock10Mat
+    second: {fileID: 2100000, guid: 0471a5726e2519d41a635ac2e54f87d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock11Mat
+    second: {fileID: 2100000, guid: 4c311b84fbc38244b81af4b331e26460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock12Mat
+    second: {fileID: 2100000, guid: 3ebbebe5da2d4554eb9c8fd03b156c6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock13Mat
+    second: {fileID: 2100000, guid: a987d2fcb2b6fe8498111af5c44d7614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock14Mat
+    second: {fileID: 2100000, guid: 3e75a3b4d6cfc234da01cad4c32ee1b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock1Mat
+    second: {fileID: 2100000, guid: 617d31dc10ee20a4c89eebafd06189ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock2Mat
+    second: {fileID: 2100000, guid: af5aa8695af7e5c4ba875443c9dcc8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock3Mat
+    second: {fileID: 2100000, guid: 3bb922005fedc684e822ee4492a6964d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock4Mat
+    second: {fileID: 2100000, guid: bf5486ca87afd7644ba349a7b7a58360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock5Mat
+    second: {fileID: 2100000, guid: 84665f4cb3ca3354c9b1dec86e6679bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_rock6Mat
+    second: {fileID: 2100000, guid: 56adc43650efd9e40a05f711c64c2d85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree12Mat
+    second: {fileID: 2100000, guid: d3e7a0606929d9048a72f71e195f6c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree13Mat
+    second: {fileID: 2100000, guid: 7fae8e63a5367f048824b41123b3a6d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree14Mat
+    second: {fileID: 2100000, guid: 0a381c40387be024ab03c77bd0f5315d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree15Mat
+    second: {fileID: 2100000, guid: cb93cd34ed891794481de819c09eb639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree16Mat
+    second: {fileID: 2100000, guid: c1759536cf59ae745a3f258ba3660f08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree17Mat
+    second: {fileID: 2100000, guid: bdddd409c037508428fbabf1f5ed1444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree18Mat
+    second: {fileID: 2100000, guid: 0b3e124de41a8824c870b63521bd89e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree19Mat
+    second: {fileID: 2100000, guid: 574d7bbee74559245b5cbe71da978a1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree20Mat
+    second: {fileID: 2100000, guid: 13600f2d3ad9e7245b92f0906b35d5bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree21Mat
+    second: {fileID: 2100000, guid: 2536d2024588f0348b640e6b7864f36e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree22Mat
+    second: {fileID: 2100000, guid: 406bd65b8d7cc8340bf338e7d9dc28f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree23Mat
+    second: {fileID: 2100000, guid: a918383b73257484bb5dd67273592ab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree24Mat
+    second: {fileID: 2100000, guid: 3721ee6afe99aa04eb4f7c5c8a3e3f8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree25Mat
+    second: {fileID: 2100000, guid: 5fdcc63d937251046a28e751f78f3725, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree26Mat
+    second: {fileID: 2100000, guid: 9fa02361b4935124aa723057b8e76c14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree27Mat
+    second: {fileID: 2100000, guid: 227c412338395e243b23eb23df246190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree28Mat
+    second: {fileID: 2100000, guid: b08b2c26e69eae94a9e624f3d30a7114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree2Mat
+    second: {fileID: 2100000, guid: ea5e8c8aeaf50db4cb1324a0e560cba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree3Mat
+    second: {fileID: 2100000, guid: e5f4a3e024c251f4cb75572cc3e6f351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree4Mat
+    second: {fileID: 2100000, guid: 9ff721405912d62419ade7fd8103278e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree8Mat
+    second: {fileID: 2100000, guid: f76390c2524784d4690e7f6c0df9f449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_tree9Mat
+    second: {fileID: 2100000, guid: 5bd5c5bc043bc7f468acffcbb8b2b4ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trees_treeMat
+    second: {fileID: 2100000, guid: bcdd874147dff4c408df8b277caf2ee4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

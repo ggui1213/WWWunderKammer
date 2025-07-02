@@ -1,0 +1,48 @@
+{
+    "MonoBehaviour": {
+        "m_Enabled": true,
+        "m_EditorHideFlags": 0,
+        "m_Name": "",
+        "m_EditorClassIdentifier": "Unity.Formats.Fbx.Editor:UnityEditor.Formats.Fbx.Exporter:ExportSettings",
+        "ExportOutsideProject": true,
+        "Verbose": false,
+        "launchAfterInstallation": true,
+        "HideSendToUnityMenu": true,
+        "BakeAnimation": true,
+        "showConvertToPrefabDialog": true,
+        "integrationSavePath": "F:\\wwwunderkammerFinal02_UnityFINALFINAL10B",
+        "selectedDCCApp": 0,
+        "prefabSavePaths": [
+            "."
+        ],
+        "fbxSavePaths": [
+            "H:/CARLA_ART_BIZ/PlanetRealTime",
+            "/",
+            "G:/CARLA_ART_BIZ/RainbowsEnd_Zaibba/SocialVR/fromUnity",
+            "G:/CARLA_ART/CARLA_ART_2021/wwwunderkammer_leah/SexTech/fromUnity",
+            "C:/__fbxConverter"
+        ],
+        "selectedFbxPath": 0,
+        "selectedPrefabPath": 0,
+        "dccOptionNames": [
+            "Maya 2024"
+        ],
+        "dccOptionPaths": [
+            "/Applications/Autodesk/maya2024/Maya.app/Contents/MacOS/Maya"
+        ],
+        "exportModelSettingsSerialize": {
+            "exportFormat": 1,
+            "animatedSkinnedMesh": true,
+            "mayaCompatibleNaming": true,
+            "include": 2,
+            "lodLevel": 0,
+            "objectPosition": 1,
+            "exportUnrendered": false
+        },
+        "convertToPrefabSettingsSerialize": {
+            "exportFormat": 0,
+            "animatedSkinnedMesh": false,
+            "mayaCompatibleNaming": true
+        }
+    }
+}

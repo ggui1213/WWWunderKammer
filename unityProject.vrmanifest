@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.wwwunderkammerfinal02_unity.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\wwwunderkammerFinal02_UnityFINALFINAL10B\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "wwwunderkammerVR [Testing]"
+        }
+      }
+    }
+  ]
+}

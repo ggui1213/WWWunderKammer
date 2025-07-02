@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 8a0461fd37c3bf6459a45804479ee846
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default1
+    second: {fileID: 2100000, guid: c42ecce5b0f5c8d46b18cb346c1a9c0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AVA3
+    second: {fileID: 2100000, guid: f5c74b8c580db394bb11ed7ab3129216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barbies_barbieBase
+    second: {fileID: 2100000, guid: 6e12045593bd14b4db8fae20d3028a3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barbies_emojiDressEarth
+    second: {fileID: 2100000, guid: cb313165722cdf24c9c3196a19eb1b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barbies_emojiDressParadise
+    second: {fileID: 2100000, guid: 494cfb939fbf0d749bf1a5c75e80aab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barbies_lambert2SG1
+    second: {fileID: 2100000, guid: 03b0c933e85f3b2439ef309a1ca52a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: bb2a6cd0112db5b4291441053460ab9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoiraLowPoly1
+    second: {fileID: 2100000, guid: 4333781f8056f474ab691092605aed52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoiraLowPoly2
+    second: {fileID: 2100000, guid: 4333781f8056f474ab691092605aed52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoiraLowPoly3
+    second: {fileID: 2100000, guid: 4333781f8056f474ab691092605aed52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoiraLowPoly4
+    second: {fileID: 2100000, guid: 4333781f8056f474ab691092605aed52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoiraLowPoly5
+    second: {fileID: 2100000, guid: 4333781f8056f474ab691092605aed52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MoiraLowPoly6
+    second: {fileID: 2100000, guid: 4333781f8056f474ab691092605aed52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barbieBase
+    second: {fileID: 2100000, guid: de6515c3edca7a946bbea8dce904cd17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barbieBase1
+    second: {fileID: 2100000, guid: 13d1398d8d94ab74d94110953e944580, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_shdr
+    second: {fileID: 2100000, guid: 496f797ba90ed6e4597cdacba72f368f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iPadAndRoller_initialShadingGroup1
+    second: {fileID: 2100000, guid: d3c051bb28e03ff49902e3f138c6c326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert28SG1
+    second: {fileID: 2100000, guid: 230abd7274d54be42b3d5b2ff3a7c1eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert42
+    second: {fileID: 2100000, guid: ff3b065eb9d7f9a4eb9285d9c3684b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: objects_shdr
+    second: {fileID: 2100000, guid: 40f38e8b0e8a83a45b25b4933aa413e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: offwhite_shdr
+    second: {fileID: 2100000, guid: c3a4af9de101f0845987d7b6e23c465f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong5SG1
+    second: {fileID: 2100000, guid: 7c8947cf690ffab4b9242f0c3739391f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

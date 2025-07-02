@@ -1,0 +1,1256 @@
+newmtl AncientFBXASC045bisonSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bison.jpg
+Ni 1.00
+newmtl CabinetNetworks_bottomCase2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinetsLower.jpg
+Ni 1.00
+newmtl CabinetNetworks_lambert5SG
+illum 4
+Kd 0.51 0.51 0.62
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl CabinetPhysicalMockup_lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Networks04.jpg
+Ni 1.00
+newmtl CabinetSexDolls_CabinetPhysicalMockup_lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinetEnd.jpg
+Ni 1.00
+newmtl CabinetSexDolls_bottomCase2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinetsLower.jpg
+Ni 1.00
+newmtl CabinetSexDolls_lambert32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _cabinetSideTemplate.tif
+Ni 1.00
+newmtl CabinetSexDolls_lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinetsStacked.jpg
+Ni 1.00
+newmtl CabinetSexDolls_lambert35SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinetMiddle.jpg
+Ni 1.00
+newmtl Cylinder001SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd currency_old.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl DefaultSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.80 0.80 0.80
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 1022.00
+newmtl DefaultSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 43.25
+newmtl DefaultSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 386.02
+newmtl DefaultSG3
+illum 4
+Kd 0.25 0.24 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 150.22
+newmtl DefaultSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 386.02
+newmtl DefaultSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 386.02
+newmtl DefaultSG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 150.22
+newmtl Oliver03:pCube10SG
+illum 4
+Kd 0.47 0.57 0.67
+Ka 0.66 0.66 0.66
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 4.31
+newmtl Oliver03:pCube10SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.55 0.55 0.55
+Tf 1.00 1.00 1.00
+map_Kd emoji_diamond.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 4.31
+newmtl Oliver_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd char_Oliver.jpg
+Ni 1.00
+newmtl Smiley_texture
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+map_Kd emoji_Smiley_Face_texture.png
+bump  -bm 0 Emoji_Smiley_Face_bump.png
+Ni 1.00
+newmtl Texture0
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl Texture2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl Texture6
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl Texture8
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl Texture10
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl Texture12
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 20.00
+newmtl TribuneSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd woodTexture_02.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Trump_Balloon4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd politicians_Balloon_Trump_Balloon4_Diffuse.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 100.00
+newmtl WebSG
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl WesternFBXASC045CamelSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.37 0.37 0.37
+Tf 1.00 1.00 1.00
+map_Kd animal_camel.jpg
+Ni 1.00
+newmtl aiAmbientOcclusion1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd robot_femaleCyborg.jpg
+Ni 1.00
+Ks 0.22 0.22 0.22
+newmtl blinn3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.40 0.40 0.40
+Ns 0.06
+newmtl blinn12SG
+illum 4
+Kd 1.00 1.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn13SG
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Angry.jpg
+Ni 1.00
+Ks 0.03 0.03 0.03
+newmtl blinn15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wow.jpg
+Ni 1.00
+Ks 0.14 0.14 0.14
+newmtl blinn16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.30 0.30 0.30
+newmtl bookEightSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bookNineSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bookSevenSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl bookTenSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl book_01SG
+illum 4
+Kd 0.52 0.49 0.39
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.55 0.55 0.55
+Ns 126.00
+newmtl book_01SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_02SG
+illum 4
+Kd 0.15 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.15 0.15 0.15
+Ns 192.01
+newmtl book_02SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_03SG
+illum 4
+Kd 0.71 0.71 0.71
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.24 0.24 0.24
+Ns 192.01
+newmtl book_03SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_05SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_05SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_07SG
+illum 4
+Kd 0.09 0.09 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 126.00
+newmtl book_07SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_053SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 192.01
+newmtl book_053SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_055SG
+illum 4
+Kd 0.24 0.21 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 126.00
+newmtl book_055SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_056SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 192.01
+newmtl book_056SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_057SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 192.01
+newmtl book_057SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl book_058SG
+illum 4
+Kd 0.71 0.69 0.64
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 192.01
+newmtl book_058SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_13SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_13SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_14SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_14SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 192.01
+newmtl book_15SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_16SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_16SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_17SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_17SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_18SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_18SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_20SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_20SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 192.01
+newmtl book_21SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_22SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.25 0.25
+Ns 192.01
+newmtl book_22SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_25SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_25SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_26SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_26SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_28SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_28SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_29SG
+illum 4
+Kd 0.09 0.09 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 126.00
+newmtl book_29SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_30SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_30SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_38SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_38SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_39SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_39SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_40SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.11 0.11 0.11
+Ns 62.00
+newmtl book_40SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_41SG
+illum 4
+Kd 0.69 0.49 0.39
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.45 0.45 0.45
+Ns 126.00
+newmtl book_41SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_44SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 722.08
+newmtl book_44SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl book_48SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.27 0.27 0.27
+Ns 126.00
+newmtl book_48SG1
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 1022.00
+newmtl bottomCase2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinetsLower.jpg
+Ni 1.00
+newmtl dogPoodle_initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl eyeSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.68 0.68 0.68
+Ns 18.00
+newmtl honeycomb_lambert14SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl iPadAndRoller_initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd R2D2_playform.jpg
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Oliver.jpg
+Ni 1.00
+newmtl lambert28SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.32 0.32 0.32
+Tf 1.00 1.00 1.00
+map_Kd art_leftPortrait.jpg
+Ni 1.00
+newmtl lambert32SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Networks01.jpg
+Ni 1.00
+newmtl lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Networks03.jpg
+Ni 1.00
+newmtl lambert35SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Networks02.jpg
+Ni 1.00
+newmtl lambert42SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert43SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert44SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Decolonize01.jpg
+Ni 1.00
+newmtl lambert45SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Decolonize02.jpg
+Ni 1.00
+newmtl lambert46SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Politics04.jpg
+Ni 1.00
+newmtl lambert59SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.31 0.31 0.31
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert64SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert73SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Politics03.jpg
+Ni 1.00
+newmtl lambert74SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinet_Politics02.jpg
+Ni 1.00
+newmtl lambert76SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd char_Lucille.jpg
+Ni 1.00
+newmtl lambert77SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cabinetRobotR2D2.jpg
+Ni 1.00
+newmtl lambert78SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert79SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd walls.jpg
+Ni 1.00
+newmtl lambert80SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s_0.2_0.2_lawnmowerMan.jpg
+Ni 1.00
+newmtl lambert81SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert82SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert84SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert85SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+newmtl lambert88SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd decolonize01.jpg
+Ni 1.00
+newmtl lambert89SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd char_Victoria.jpg
+Ni 1.00
+newmtl lambert90SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd clouds.jpg
+Ni 1.00
+newmtl node_id173SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd emoji_thinking.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks emoji_thinking.png
+Ns 60.87
+newmtl node_id173SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd emoji_thinking.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks emoji_thinking.png
+Ns 1.91
+newmtl partsOfCabinetRoom_lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd squareFrame_Tippoo.psd
+Ni 1.00
+newmtl phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 0.06
+newmtl polySurface3SG
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 4.31
+newmtl polySurface3SG1
+illum 4
+Kd 0.06 0.28 0.06
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 4.31
+newmtl polySurface1322SG
+illum 4
+Kd 0.73 0.31 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.73 0.31 0.00
+Ns 0.06
+newmtl polySurface1322SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface1328SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface1331SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface1343SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface1344SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface1346SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface1347SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface1348SG
+illum 4
+Kd 0.54 0.01 0.11
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl polySurface1831SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface2387SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.70 0.70 0.70
+Tf 1.00 1.00 1.00
+map_Kd emoji_windBlowingGirl.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl polySurface2401SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface2401SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+map_Kd emoji_caterpillar.jpg
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 4.31
+newmtl polySurface2401SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 4.31
+newmtl polySurface2935SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl polySurface2937SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl polySurface2941SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl polySurface2945SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl polySurface2946SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl polySurface2947SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl polySurface5029SG
+illum 4
+Kd 0.09 0.04 0.01
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.07 0.07 0.07
+newmtl polySurface5029SG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.44 0.44 0.44
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl polySurface5029SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl polySurface5029SG3
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl seashellSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.88 0.88 0.88
+Tf 1.00 1.00 1.00
+map_Kd seashell_txtr02.psd
+Ni 1.00
+Ks 0.02 0.02 0.02
+Ns 4.94
+newmtl subdivision04SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 1148.50
+newmtl tipoosTiger:MeshSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd char_Tippoo.jpg
+Ni 1.00

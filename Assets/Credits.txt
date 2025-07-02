@@ -1,0 +1,18 @@
+TELEMATIC MEDIA ARTS
+presents
+wwwunderkammer
+ 
+With original music by R. Luke DuBois
+A solo exhibition of new work in XR
+by Carla Gannis / C.A.R.L.A. G.A.NCarla Gannis Studio Acknowledgements
+Janine Kelly (studio manager)
+Indira Ardolic  (VR/AR design and development)
+Noth Liu  (VR/AR research and production)
+Calvin Lee (VR/AR research and production)
+Tess Adams (production assistance)
+Zoe Adams  (production assistance)
+
+Technologies
+Playform.io  (Artificial Intelligence Platform)
+HTC Vive (Virtual Reality Platform)
+Vuforia (Augmented Reality Platform)
