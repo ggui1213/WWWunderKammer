@@ -8,4 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/peeporama.unity
     guid: 59774e9e33508f94e9a0f515026973f6
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5352c8064fb73d943935e14ccc14c829,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d40f14a53efae5f4f9a5964af1adcc6f,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
