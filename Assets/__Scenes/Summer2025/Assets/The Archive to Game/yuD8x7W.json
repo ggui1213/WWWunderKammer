@@ -1,0 +1,26 @@
+{
+  "name": "Archive Gallery V05",
+  "parent_scene": null,
+  "project_id": "yuD8x7W",
+  "project_url": "https://uploads-prod.reticulum.io/files/3d542111-2c9a-4c51-ba6c-5ec9876be970.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [],
+      "creator": "Carla Gannis, Clark Buckner, Telematic"
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/635911a9-cbbe-405f-a49d-1e2d0bcb919f.bin",
+    "name": "Archive of The Archive To Come VR Gallery",
+    "parent_scene_id": null,
+    "project_id": "yuD8x7W",
+    "scene_id": "x9cjaRo",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/18da3680-0867-4f54-a970-1539a75d8ab0.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/x9cjaRo/archive-of-the-archive-to-come-vr-gallery"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/c4e2a5d4-b84e-46c7-91d9-168fc71dbf0c.jpg"
+}
