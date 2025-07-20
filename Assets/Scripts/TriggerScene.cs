@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class TriggerScene : MonoBehaviour
 {
 
-    //public string levelName;
+    public string levelName;
 
     public void btn_change_scene(string scene_name)
     {
