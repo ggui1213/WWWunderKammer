@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 57ff5bfc60405c34e8883fedd432500c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37873
+  packageName: URP - Standard Double Sided Shaders
+  packageVersion: 2022.3
+  assetPath: Assets/Ciconia Studio/Shaders/Standard Shaders/URP/Demo Scene/Standard
+    Demo.unity
+  uploadId: 641243

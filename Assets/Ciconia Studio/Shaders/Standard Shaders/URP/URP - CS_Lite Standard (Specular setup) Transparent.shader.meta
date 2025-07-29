@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bbb29bc6f1f0b704d989cac34a3a1b7e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37873
+  packageName: URP - Standard Double Sided Shaders
+  packageVersion: 2022.3
+  assetPath: Assets/Ciconia Studio/Shaders/Standard Shaders/URP/URP - CS_Lite Standard
+    (Specular setup) Transparent.shader
+  uploadId: 641243

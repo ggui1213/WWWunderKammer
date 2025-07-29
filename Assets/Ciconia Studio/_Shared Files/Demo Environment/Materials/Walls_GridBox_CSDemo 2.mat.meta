@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2b750155b60c7de4b84a5140564238ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37873
+  packageName: URP - Standard Double Sided Shaders
+  packageVersion: 2022.3
+  assetPath: Assets/Ciconia Studio/_Shared Files/Demo Environment/Materials/Walls_GridBox_CSDemo
+    2.mat
+  uploadId: 641243

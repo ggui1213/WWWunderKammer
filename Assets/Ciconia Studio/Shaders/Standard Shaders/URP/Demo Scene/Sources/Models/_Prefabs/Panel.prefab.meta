@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c490ee0827253148b4cacbe02d03dc9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37873
+  packageName: URP - Standard Double Sided Shaders
+  packageVersion: 2022.3
+  assetPath: Assets/Ciconia Studio/Shaders/Standard Shaders/URP/Demo Scene/Sources/Models/_Prefabs/Panel.prefab
+  uploadId: 641243

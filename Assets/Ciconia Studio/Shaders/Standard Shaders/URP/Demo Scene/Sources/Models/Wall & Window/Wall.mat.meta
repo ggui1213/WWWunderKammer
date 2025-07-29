@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5f7a6b45b0cdafb478c04a342ca5a7b6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37873
+  packageName: URP - Standard Double Sided Shaders
+  packageVersion: 2022.3
+  assetPath: Assets/Ciconia Studio/Shaders/Standard Shaders/URP/Demo Scene/Sources/Models/Wall
+    & Window/Wall.mat
+  uploadId: 641243

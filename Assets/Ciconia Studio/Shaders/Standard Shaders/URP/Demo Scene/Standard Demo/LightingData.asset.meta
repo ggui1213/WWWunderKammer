@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 745ca0ca182e2144b870f13784f9a73c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 37873
+  packageName: URP - Standard Double Sided Shaders
+  packageVersion: 2022.3
+  assetPath: Assets/Ciconia Studio/Shaders/Standard Shaders/URP/Demo Scene/Standard
+    Demo/LightingData.asset
+  uploadId: 641243
