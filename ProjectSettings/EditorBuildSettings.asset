@@ -6,9 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/______Summer2025/03_CabinetInterior_V05 1.unity
+    guid: 78ca83d0ed9644e3c8f08ad3603a4ec2
+  - enabled: 1
+    path: Assets/______Summer2025/04_Galaxy 1.unity
+    guid: 2a0aafdea2957498c8217d76c279cdc7
+  - enabled: 1
+    path: Assets/______Summer2025/05_Mat4rix 1.unity
+    guid: b070ad2e9de034616ace766974fc507d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5352c8064fb73d943935e14ccc14c829, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: d40f14a53efae5f4f9a5964af1adcc6f, type: 2}
   m_UseUCBPForAssetBundles: 0

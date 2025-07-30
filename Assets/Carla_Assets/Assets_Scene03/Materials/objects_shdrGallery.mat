@@ -21,19 +21,25 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: objects_shdrGallery
-  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_Shader: {fileID: 4800000, guid: 63a90426d42b698448966291201d6716, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
+  - _BLENDMODE_NONE
+  - _CHANNELSELECTIONMASK1_RED
+  - _DETAILSOURCE_SPECULARALPHA
+  - _SOURCE_SPECULARALPHA
+  - _TRIPLANARSPACEPROJECTION_OBJECTSPACE
+  m_InvalidKeywords:
   - _EMISSION
-  - _SPECULAR_SETUP
-  m_InvalidKeywords: []
+  - _ENABLETRIPLANARPROJECTION_ON
+  - _USEAOFROMMAINPROPERTIES_ON
+  - _USEEMISSIONFROMMAINPROPERTIES_ON
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2000
-  stringTagMap:
-    RenderType: Opaque
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
   disabledShaderPasses:
   - MOTIONVECTORS
   m_LockedProperties: 
@@ -57,6 +63,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailSpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -100,41 +110,75 @@ Material:
     m_Floats:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
+    - _AlphaCutoff: 0.5
     - _AlphaToMask: 0
     - _Blend: 0
+    - _BlendMainNormal: 0
     - _BlendModePreserveSpecular: 1
+    - _Blendmode: 0
+    - _Brightness: 1
     - _BumpScale: 1
+    - _ChannelSelectionMask1: 0
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _Cull: 2
+    - _ContrastDetailMap: 0
+    - _Cull: 0
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
+    - _DetailBrightness: 1
+    - _DetailGlossiness: 0.5
     - _DetailNormalMapScale: 1
+    - _DetailSaturation: 0
+    - _DetailSource: 0
+    - _DetailSpecularIntensity: 0.2
     - _DstBlend: 0
     - _DstBlendAlpha: 0
+    - _EmissionIntensity: 1
+    - _EnableDetailMask: 0
+    - _EnableTriplanarProjection: 1
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.605
     - _GlossyReflections: 1
+    - _IntensityMask: 1
+    - _InvertABaseColor1: 0
+    - _InvertMask: 0
     - _Metallic: 1
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _QueueControl: -1
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _Saturation: 0
     - _Smoothness: 1
+    - _SmoothnessBack: 0.5
     - _SmoothnessTextureChannel: 0
+    - _Source: 0
     - _SpecularHighlights: 1
+    - _SpecularIntensity: 0.2
+    - _SpreadDetailMap: 0
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
+    - _TriplanarFalloff: 20
+    - _TriplanarSpaceProjection: 0
     - _UVSec: 0
-    - _WorkflowMode: 0
+    - _UseAoFromMainProperties: 1
+    - _UseEmissionFromMainProperties: 1
+    - _VisualizeMask: 0
+    - _WorkflowMode: 1
+    - _ZTest: 4
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.9150943, g: 0.23356956, b: 0.038848326, a: 1}
-    - _Color: {r: 0.9150943, g: 0.23356953, b: 0.038848326, a: 1}
-    - _EmissionColor: {r: 0.3018868, g: 0.10437689, b: 0.041295845, a: 0}
+    - _BaseColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.16981128, g: 0.15165171, b: 0, a: 1}
+    - _DetailColor: {r: 1, g: 1, b: 1, a: 0}
+    - _DetailSpecularColor: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 0.6313726, g: 0.27897573, b: 0, a: 0}
+    - _GlobalXYTilingXYZWOffsetXY: {r: 1, g: 1, b: 0, a: 0}
     - _SpecColor: {r: 0.9254902, g: 0.69268274, b: 0.4745098, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 0}
+    - _TriplanarXYTilingXYZWOffsetXY: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
