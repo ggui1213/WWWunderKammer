@@ -26,11 +26,21 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords:
+  - _BLENDMAINNORMAL_ON
+  - _BLENDMODE_NONE
+  - _CHANNELSELECTIONMASK1_RED
+  - _DETAILSOURCE_METALLICALPHA
+  - _ENABLEDETAILMASK_ON
+  - _ENABLETRIPLANARPROJECTION_ON
   - _ENVIRONMENTREFLECTIONS_OFF
   - _GLOSSYREFLECTIONS_OFF
+  - _SOURCE_METALLICALPHA
+  - _TRIPLANARSPACEPROJECTION_OBJECTSPACE
+  - _USEAOFROMMAINPROPERTIES_ON
+  - _USEEMISSIONFROMMAINPROPERTIES_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
   stringTagMap:
     RenderType: Opaque
@@ -53,6 +63,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMetallicGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -100,6 +114,7 @@ Material:
     m_Floats:
     - _AddPrecomputedVelocity: 0
     - _AlphaClip: 0
+    - _AlphaCutoff: 0.5
     - _AlphaToMask: 0
     - _BUILTIN_AlphaClip: 0
     - _BUILTIN_Blend: 0
@@ -113,22 +128,38 @@ Material:
     - _BUILTIN_ZWrite: 1
     - _BUILTIN_ZWriteControl: 0
     - _Blend: 0
+    - _BlendMainNormal: 1
     - _BlendModePreserveSpecular: 1
+    - _Blendmode: 0
+    - _Brightness: 1
     - _BumpScale: 1
     - _CastShadows: 1
+    - _ChannelSelectionMask1: 0
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _Cull: 2
+    - _ContrastDetailMap: 0
+    - _Cull: 0
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
+    - _DetailBrightness: 1
+    - _DetailGlossiness: 0.5
+    - _DetailMetallic: 0
     - _DetailNormalMapScale: 1
+    - _DetailSaturation: 0
+    - _DetailSource: 0
     - _DstBlend: 0
     - _DstBlendAlpha: 0
+    - _EmissionIntensity: 1
+    - _EnableDetailMask: 1
+    - _EnableTriplanarProjection: 1
     - _EnvironmentReflections: 0
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossinessSource: 0
     - _GlossyReflections: 0
+    - _IntensityMask: 1
+    - _InvertABaseColor1: 0
+    - _InvertMask: 0
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -136,16 +167,25 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _Saturation: 0
     - _Shininess: 0
     - _Smoothness: 0
+    - _SmoothnessBack: 0.5
     - _SmoothnessSource: 0
     - _SmoothnessTextureChannel: 0
+    - _Source: 0
     - _SpecSource: 0
     - _SpecularHighlights: 1
+    - _SpreadDetailMap: 0
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
+    - _TriplanarFalloff: 20
+    - _TriplanarSpaceProjection: 0
     - _UVSec: 0
+    - _UseAoFromMainProperties: 1
+    - _UseEmissionFromMainProperties: 1
+    - _VisualizeMask: 0
     - _WorkflowMode: 1
     - _ZTest: 4
     - _ZWrite: 1
@@ -153,8 +193,11 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _DetailColor: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 0.2830189, g: 0.2830189, b: 0.2830189, a: 1}
+    - _GlobalXYTilingXYZWOffsetXY: {r: 1, g: 1, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _TriplanarXYTilingXYZWOffsetXY: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &8490472560057171736
