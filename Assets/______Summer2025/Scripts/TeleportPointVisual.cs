@@ -1,70 +1,67 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.XR.Interaction.Toolkit;
-using UnityEngine.XR.Interaction.Toolkit.Locomotion.Teleportation;
 
-namespace ______Summer2025.Scripts
+[RequireComponent(typeof(UnityEngine.XR.Interaction.Toolkit.Locomotion.Teleportation.BaseTeleportationInteractable))]
+public class TeleportPointVisual : MonoBehaviour
 {
-    /// <summary>
-    /// 控制瞬移锚点的可视化，在瞄准/选择时显示，松开时隐藏。
-    /// </summary>
-    [RequireComponent(typeof(BaseTeleportationInteractable))]
-    public class TeleportPointVisual : MonoBehaviour
+    [Tooltip("瞬移点的可视对象（圆环、箭头等）")]
+    public GameObject meshObject;
+    [Tooltip("指向 XRI Default Input Actions 里 Grip 按键的 ActionReference")]
+    public InputActionReference gripAction;
+
+    UnityEngine.XR.Interaction.Toolkit.Locomotion.Teleportation.BaseTeleportationInteractable anchor;
+    bool isGripping;
+
+    void Awake()
     {
-        [Tooltip("要显示的网格（如圆环或箭头）")]
-        public GameObject meshObject;
+        anchor = GetComponent<UnityEngine.XR.Interaction.Toolkit.Locomotion.Teleportation.BaseTeleportationInteractable>();
 
-        BaseTeleportationInteractable anchor;
+        // 初始隐藏
+        if (meshObject) meshObject.SetActive(false);
 
-        void Awake()
-        {
-            anchor = GetComponent<BaseTeleportationInteractable>();
-            // 初始隐藏网格
-            if (meshObject != null)
-                meshObject.SetActive(false);
+        // 订阅 Grip 按键事件
+        gripAction.action.started += ctx => isGripping = true;
+        gripAction.action.canceled += ctx => isGripping = false;
 
-            // 订阅悬停和选择事件
-            anchor.hoverEntered.AddListener(OnHoverEntered);
-            anchor.hoverExited.AddListener(OnHoverExited);
-            anchor.selectEntered.AddListener(OnSelectEntered);
-            anchor.selectExited.AddListener(OnSelectExited);
-        }
+        // 订阅 Hover/Select 事件
+        anchor.hoverEntered.AddListener(OnHoverEntered);
+        anchor.hoverExited.AddListener(OnHoverExited);
+        anchor.selectEntered.AddListener(OnSelectEntered);
+        anchor.selectExited.AddListener(OnSelectExited);
+    }
 
-        void OnDestroy()
-        {
-            // 移除事件监听
-            anchor.hoverEntered.RemoveListener(OnHoverEntered);
-            anchor.hoverExited.RemoveListener(OnHoverExited);
-            anchor.selectEntered.RemoveListener(OnSelectEntered);
-            anchor.selectExited.RemoveListener(OnSelectExited);
-        }
+    void OnDestroy()
+    {
+        gripAction.action.started   -= ctx => isGripping = true;
+        gripAction.action.canceled  -= ctx => isGripping = false;
+        anchor.hoverEntered.RemoveListener(OnHoverEntered);
+        anchor.hoverExited .RemoveListener(OnHoverExited);
+        anchor.selectEntered.RemoveListener(OnSelectEntered);
+        anchor.selectExited .RemoveListener(OnSelectExited);
+    }
 
-        // 射线开始悬停：显示可视化
-        void OnHoverEntered(HoverEnterEventArgs args)
-        {
-            if (meshObject != null)
-                meshObject.SetActive(true);
-        }
+    void OnHoverEntered(HoverEnterEventArgs args)
+    {
+        if (meshObject) meshObject.SetActive(true);
+    }
 
-        // 射线离开悬停：隐藏可视化（仅在未被选择时）
-        void OnHoverExited(HoverExitEventArgs args)
-        {
-            // 如果已经选择（玩家仍按着传送按钮），不隐藏
-            if (!anchor.isSelected && meshObject != null)
-                meshObject.SetActive(false);
-        }
+    void OnHoverExited(HoverExitEventArgs args)
+    {
+        // 只有在“未按住 Grip 且未选中”时才隐藏
+        if (!isGripping && !anchor.isSelected && meshObject)
+            meshObject.SetActive(false);
+    }
 
-        // 玩家按下传送按钮开始选择：确保可视化显示
-        void OnSelectEntered(SelectEnterEventArgs args)
-        {
-            if (meshObject != null)
-                meshObject.SetActive(true);
-        }
+    void OnSelectEntered(SelectEnterEventArgs args)
+    {
+        if (meshObject) meshObject.SetActive(true);
+    }
 
-        // 玩家松开传送按钮，选择结束：隐藏可视化
-        void OnSelectExited(SelectExitEventArgs args)
-        {
-            if (meshObject != null)
-                meshObject.SetActive(false);
-        }
+    void OnSelectExited(SelectExitEventArgs args)
+    {
+        // 只有在“未按住 Grip”时才隐藏
+        if (!isGripping && meshObject)
+            meshObject.SetActive(false);
     }
 }
