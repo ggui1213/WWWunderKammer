@@ -133,7 +133,7 @@ Material:
     - _DetailSpecularIntensity: 0.2
     - _DstBlend: 0
     - _DstBlendAlpha: 0
-    - _EmissionIntensity: 1
+    - _EmissionIntensity: 0
     - _EnableDetailMask: 0
     - _EnableTriplanarProjection: 1
     - _EnvironmentReflections: 1
@@ -151,12 +151,12 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Saturation: 0
-    - _Smoothness: 1
+    - _Smoothness: 0
     - _SmoothnessBack: 0.5
     - _SmoothnessTextureChannel: 0
     - _Source: 0
     - _SpecularHighlights: 1
-    - _SpecularIntensity: 0.2
+    - _SpecularIntensity: 2
     - _SpreadDetailMap: 0
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
@@ -171,14 +171,14 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0, g: 0, b: 0, a: 1}
+    - _BaseColor: {r: 0.59607846, g: 0.30980393, b: 0.20784314, a: 1}
     - _Color: {r: 0.16981128, g: 0.15165171, b: 0, a: 1}
     - _DetailColor: {r: 1, g: 1, b: 1, a: 0}
     - _DetailSpecularColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0.6313726, g: 0.27897573, b: 0, a: 0}
     - _GlobalXYTilingXYZWOffsetXY: {r: 1, g: 1, b: 0, a: 0}
     - _SpecColor: {r: 0.9254902, g: 0.69268274, b: 0.4745098, a: 1}
-    - _SpecularColor: {r: 1, g: 1, b: 1, a: 0}
+    - _SpecularColor: {r: 0.9529412, g: 0.627451, b: 0.20392157, a: 0}
     - _TriplanarXYTilingXYZWOffsetXY: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

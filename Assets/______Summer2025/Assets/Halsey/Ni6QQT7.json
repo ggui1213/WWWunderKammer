@@ -1,0 +1,70 @@
+{
+  "name": "Cabinet of Halsey InstituteV04",
+  "parent_scene": null,
+  "project_id": "TDD7sEq",
+  "project_url": "https://uploads-prod.reticulum.io/files/dfb0ad71-724b-456e-9b75-615765d6bf14.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "William_Melton_Halsey_artist"
+        },
+        {
+          "title": "2023"
+        },
+        {
+          "title": "2022"
+        },
+        {
+          "title": "2021"
+        },
+        {
+          "title": "2020"
+        },
+        {
+          "title": "2019"
+        },
+        {
+          "title": "Halsey Sign"
+        },
+        {
+          "title": "Pedestal"
+        },
+        {
+          "title": "topOfPedestalLightBake"
+        },
+        {
+          "title": "Sculpture 1"
+        },
+        {
+          "title": "CharlestonMidjourney02"
+        },
+        {
+          "title": "objectChessPieces"
+        },
+        {
+          "title": "kioskForHalsey"
+        },
+        {
+          "title": "backToWwwunderkammer"
+        }
+      ],
+      "creator": "Carla Gannis + CARLA GAN :: WWWUNDERKAMMER"
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/6b3085bf-0982-4110-a5c9-7fef2aaf916f.bin",
+    "name": "Cabinet of Halsey InstituteV04",
+    "parent_scene_id": null,
+    "project_id": "TDD7sEq",
+    "scene_id": "Ni6QQT7",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/57df586a-1e63-42cc-adfe-2f1468af37cf.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/Ni6QQT7/cabinet-of-halsey-institutev04"
+  },
+  "status": "ok",
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/32da98ca-6276-483b-9aea-44794a320162.jpg"
+}

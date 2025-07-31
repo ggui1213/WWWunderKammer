@@ -1,0 +1,37 @@
+{
+  "name": "ObjectBody",
+  "parent_scene": null,
+  "project_id": "Sa62b2E",
+  "project_url": "https://uploads-prod.reticulum.io/files/fadb93fc-67b6-4b4c-a272-8bdc3bd89c12.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "objectBodySand"
+        },
+        {
+          "title": "archway"
+        },
+        {
+          "title": "wwwunderkammer_GIF"
+        }
+      ],
+      "creator": "Carla Gannis + CARLA GAN :: WWWUNDERKAMMER"
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/a2cf2245-1fa9-4ec9-b57d-db88b94f7b75.bin",
+    "name": "ObjectBody",
+    "parent_scene_id": null,
+    "project_id": "Sa62b2E",
+    "scene_id": "rTTEVzh",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/62fbdbf5-d08f-48a0-b86c-295596301e23.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/rTTEVzh/objectbody"
+  },
+  "status": "ok",
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/a4ab34cd-0a4b-4629-a3a6-bc9844478d79.jpg"
+}
