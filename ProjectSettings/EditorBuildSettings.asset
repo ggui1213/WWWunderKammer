@@ -6,13 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/______Summer2025/Scenes/03_CabinetInterior_V05 1.unity
+    path: Assets/______Summer2025/Scenes/01_GrRealityStart.unity
+    guid: 9b30258e9eff54054bf60eea6001e240
+  - enabled: 1
+    path: Assets/______Summer2025/Scenes/02_VideoGameEntrance.unity
+    guid: 32781c9cf141c4f4998cad35040a6c91
+  - enabled: 1
+    path: Assets/______Summer2025/Scenes/03_CabinetInterior_V05.unity
     guid: 78ca83d0ed9644e3c8f08ad3603a4ec2
   - enabled: 1
-    path: Assets/______Summer2025/Scenes/04_Galaxy 1.unity
+    path: Assets/______Summer2025/Scenes/04_Galaxy.unity
     guid: 2a0aafdea2957498c8217d76c279cdc7
   - enabled: 1
-    path: Assets/______Summer2025/Scenes/05_Mat4rix 1.unity
+    path: Assets/______Summer2025/Scenes/05_Mat4rix.unity
     guid: b070ad2e9de034616ace766974fc507d
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
