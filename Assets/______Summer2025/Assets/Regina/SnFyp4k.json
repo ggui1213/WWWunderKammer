@@ -1,0 +1,107 @@
+{
+  "name": "Regina",
+  "parent_scene": null,
+  "project_id": "SnFyp4k",
+  "project_url": "https://uploads-prod.reticulum.io/files/09adc0bb-ed76-4e90-bf54-6ae117b8339e.json",
+  "scene": {
+    "account_id": null,
+    "allow_promotion": false,
+    "allow_remixing": false,
+    "attribution": null,
+    "attributions": {
+      "content": [
+        {
+          "title": "Room"
+        },
+        {
+          "title": "Polaroid"
+        },
+        {
+          "title": "flame"
+        },
+        {
+          "title": "Projector_White"
+        },
+        {
+          "title": "VintageProjector"
+        },
+        {
+          "title": "Circle"
+        },
+        {
+          "title": "TV"
+        },
+        {
+          "title": "whitenoise"
+        },
+        {
+          "title": "begonedullcare"
+        },
+        {
+          "title": "glitch2"
+        },
+        {
+          "title": "glitch1"
+        },
+        {
+          "title": "Server"
+        },
+        {
+          "title": "Projector_Brown"
+        },
+        {
+          "title": "Projector"
+        },
+        {
+          "title": "Film_Ground1"
+        },
+        {
+          "title": "Film"
+        },
+        {
+          "title": "Frampton1"
+        },
+        {
+          "title": "Pedestal"
+        },
+        {
+          "title": "ComputerMonitor"
+        },
+        {
+          "title": "popup"
+        },
+        {
+          "title": "rhythmus_hansrichter_still"
+        },
+        {
+          "title": "ReginaInterview_1Minute_Optimized"
+        },
+        {
+          "title": "floppyDisc"
+        },
+        {
+          "title": "wwwunderLinkRegina"
+        },
+        {
+          "author": "wufudufu",
+          "title": "Computer",
+          "url": "https://sketchfab.com/models/77802a1a5e4c4506bd52cae6aedd79ad"
+        },
+        {
+          "title": "interviewLinkRegina"
+        }
+      ],
+      "creator": "Carla Gannis + CARLA GAN :: WWWUNDERKAMMER"
+    },
+    "description": null,
+    "model_url": "https://uploads-prod.reticulum.io/files/38f481e7-e3a8-4a4f-9e82-0f2f87d87f3d.bin",
+    "name": "Is This Chamber Still Supported?",
+    "parent_scene_id": null,
+    "project_id": "SnFyp4k",
+    "scene_id": "dfJQzXi",
+    "screenshot_url": "https://uploads-prod.reticulum.io/files/1560751f-c32c-4136-b964-6094bd2fb2ae.jpg",
+    "type": "scene",
+    "url": "https://hubs.mozilla.com/scenes/dfJQzXi/is-this-chamber-still-supported"
+  },
+  "thumbnail_url": "https://uploads-prod.reticulum.io/files/2f3e77ca-85ca-4451-8af2-fa6e9a134b23.jpg"
+}
