@@ -79,8 +79,13 @@ public class FollowFrontMenu : MonoBehaviour
         targetPos.y = camT.position.y;
 
         // 计算目标朝向：水平朝向玩家
-        Vector3 lookAt = new Vector3(camT.position.x, targetPos.y, camT.position.z);
-        Quaternion targetRot = Quaternion.LookRotation(lookAt - targetPos);
+        Vector3 targetDirection = camT.forward;
+        targetDirection.y = 0; // 保持水平
+        targetDirection.Normalize();
+        Quaternion targetRot = Quaternion.LookRotation(targetDirection);
+        
+        //Vector3 lookAt = new Vector3(camT.position.x, targetPos.y, camT.position.z);
+        //Quaternion targetRot = Quaternion.LookRotation(lookAt - targetPos);
 
         if (smoothFollow && !immediate)
         {
@@ -102,7 +107,5 @@ public class FollowFrontMenu : MonoBehaviour
             menuUI.transform.position = targetPos;
             menuUI.transform.rotation = targetRot;
         }
-
-
     }
 }
