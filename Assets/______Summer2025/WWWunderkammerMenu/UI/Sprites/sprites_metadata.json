@@ -1,0 +1,45 @@
+{
+  "nine_slice_recommendations": {
+    "panel_bg_round_512.png": {
+      "border_pixels": [
+        56,
+        56,
+        56,
+        56
+      ]
+    },
+    "card_bg_round_384x256.png": {
+      "border_pixels": [
+        40,
+        40,
+        40,
+        40
+      ]
+    },
+    "thumb_slot_round_320x180.png": {
+      "border_pixels": [
+        20,
+        20,
+        20,
+        20
+      ]
+    },
+    "header_bar_round_1024x192.png": {
+      "border_pixels": [
+        28,
+        28,
+        28,
+        28
+      ]
+    },
+    "tooltip_bubble_512x160.png": {
+      "border_pixels": [
+        24,
+        24,
+        24,
+        24
+      ]
+    }
+  },
+  "notes": "Import as Sprite (2D and UI), Mesh=Full Rect. Set the Sprite Border pixels as listed."
+}

@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 3e891ca55892efb42a6b5239bc6eb740
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287769
+  packageName: Stylized Water 3
+  packageVersion: 3.2.2
+  assetPath: Assets/Stylized Water 3/Models/Ocean.fbx
+  uploadId: 776421
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -84,7 +91,7 @@ ModelImporter:
     blendShapeNormalImportMode: 2
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
@@ -113,10 +120,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 287769
-  packageName: Stylized Water 3
-  packageVersion: 3.2.2
-  assetPath: Assets/Stylized Water 3/Models/Ocean.fbx
-  uploadId: 776421

@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: c7d841b4db5db07489c73267fb6263d8
+AssetOrigin:
+  serializedVersion: 1
+  productId: 287769
+  packageName: Stylized Water 3
+  packageVersion: 3.2.2
+  assetPath: Assets/Stylized Water 3/_Demo/DemoAssets/Models/SW3_DemoMeshes.fbx
+  uploadId: 776421
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -76,7 +83,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
-  importAnimation: 0
+  importAnimation: 1
   humanDescription:
     serializedVersion: 3
     human: []
@@ -105,10 +112,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 287769
-  packageName: Stylized Water 3
-  packageVersion: 3.2.2
-  assetPath: Assets/Stylized Water 3/_Demo/DemoAssets/Models/SW3_DemoMeshes.fbx
-  uploadId: 776421

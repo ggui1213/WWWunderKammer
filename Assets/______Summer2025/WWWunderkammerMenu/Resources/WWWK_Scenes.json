@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "displayName": "入口大厅",
+      "sceneName": "Room_A"
+    },
+    {
+      "displayName": "情绪珍奇柜",
+      "sceneName": "Room_B"
+    },
+    {
+      "displayName": "表情兽志",
+      "sceneName": "Room_C"
+    },
+    {
+      "displayName": "数据遗物室",
+      "sceneName": "Room_D"
+    },
+    {
+      "displayName": "档案长廊",
+      "sceneName": "Room_E"
+    },
+    {
+      "displayName": "返回大厅",
+      "sceneName": "Lobby"
+    }
+  ]
+}
