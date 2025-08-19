@@ -10,8 +10,8 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: 7105091097539742544}
-    m_Position: {x: 220, y: 250, z: 0}
+    m_State: {fileID: 973788552253348579}
+    m_Position: {x: 308.3674, y: 269.21637, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -21,7 +21,7 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: 7105091097539742544}
+  m_DefaultState: {fileID: 973788552253348579}
 --- !u!91 &9100000
 AnimatorController:
   m_ObjectHideFlags: 0
@@ -44,14 +44,14 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
---- !u!1102 &7105091097539742544
+--- !u!1102 &973788552253348579
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: blue_water_001|blue_waterAction
+  m_Name: blue_water|blue_waterAction
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -64,7 +64,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -973075916746523242, guid: 81d4c04d2d69b4179aeb2e317ff13831, type: 3}
+  m_Motion: {fileID: 4842798546525659491, guid: 7d405c9a46bdf4b86bef8cca147aa497, type: 3}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
