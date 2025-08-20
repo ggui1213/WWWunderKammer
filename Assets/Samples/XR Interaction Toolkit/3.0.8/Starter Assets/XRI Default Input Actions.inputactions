@@ -2388,7 +2388,7 @@
                 {
                     "name": "",
                     "id": "cce433de-b8eb-43c0-8187-9f5cee8908fb",
-                    "path": "<XRController>{RightHand}/{TriggerButton}",
+                    "path": "<XRController>/triggerPressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
