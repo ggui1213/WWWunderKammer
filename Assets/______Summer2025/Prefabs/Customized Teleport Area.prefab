@@ -91,7 +91,7 @@ PrefabInstance:
     - target: {fileID: 8506594386376489682, guid: beb4e2871579447497fe41dfb108e2cd, type: 3}
       propertyPath: gripAction
       value: 
-      objectReference: {fileID: 4271276013761065397, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+      objectReference: {fileID: -9131375467403521404, guid: c348712bda248c246b8c49b3db54643f, type: 3}
     - target: {fileID: 8708985967341403627, guid: beb4e2871579447497fe41dfb108e2cd, type: 3}
       propertyPath: m_Layer
       value: 0

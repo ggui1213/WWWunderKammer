@@ -2076,6 +2076,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "TeleportTrigger",
+                    "type": "Button",
+                    "id": "1a3440fa-853c-496b-a004-ca866b0db383",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -2373,6 +2382,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "GripPress",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cce433de-b8eb-43c0-8187-9f5cee8908fb",
+                    "path": "<XRController>{RightHand}/{TriggerButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TeleportTrigger",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

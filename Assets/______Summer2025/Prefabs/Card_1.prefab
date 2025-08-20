@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8696651826168573967}
   - component: {fileID: 4499596680608280157}
+  - component: {fileID: 2642998522281322729}
   - component: {fileID: 2978362304006786641}
   - component: {fileID: 8558583866208118317}
   - component: {fileID: 7146410646201639246}
@@ -50,6 +51,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4928380549806945103}
   m_CullTransparentMesh: 1
+--- !u!114 &2642998522281322729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4928380549806945103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44b5cc26991e94d1a92eb8acc5c3a2c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thumbnail: {fileID: 5918956897508375846}
+  titleText: {fileID: 4981253777354301186}
+  button: {fileID: 7146410646201639246}
+  cardKey: 
+  scenePath: 
 --- !u!114 &2978362304006786641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -711,7 +729,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2120331055199234213
 CanvasRenderer:
