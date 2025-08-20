@@ -765,7 +765,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286dd1958646e4535b4cd335613ea015, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  grabAction: {fileID: 5667446173830999989, guid: 0be0028c24f2a4c14a96b6aa39055933, type: 3}
+  grabAction: {fileID: -9131375467403521404, guid: c348712bda248c246b8c49b3db54643f, type: 3}
 --- !u!4 &178206139
 Transform:
   m_ObjectHideFlags: 0
@@ -5035,7 +5035,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d68ca0d37b53448f962766e3306ae4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: 02_VideoGameEntrance
+  sceneToLoad: 02. Video Game Castle
 --- !u!4 &1241532744
 Transform:
   m_ObjectHideFlags: 0
