@@ -9022,6 +9022,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7546906389674637021, guid: 507a01bb559a1405bbd024d1e3dda91e, type: 3}
+      propertyPath: gripAction
+      value: 
+      objectReference: {fileID: -1758520528963094988, guid: c348712bda248c246b8c49b3db54643f, type: 3}
     - target: {fileID: 7759923815292278321, guid: 507a01bb559a1405bbd024d1e3dda91e, type: 3}
       propertyPath: m_Name
       value: Customized Snap Teleport Anchor Variant (54)
@@ -60063,6 +60067,27 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1813372494}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &764848013 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1717954561962503725, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
+  m_PrefabInstance: {fileID: 830058046}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &764848023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 764848013}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f36f44d74d3cd47aba0fe40fae3f6eb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  checkLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  logEveryFrame: 0
 --- !u!1 &767375537
 GameObject:
   m_ObjectHideFlags: 0
@@ -65982,10 +66007,14 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5703278673297240952, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1717954561962503725, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 764848023}
     - targetCorrespondingSourceObject: {fileID: 8329477346829358658, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1278964425}
