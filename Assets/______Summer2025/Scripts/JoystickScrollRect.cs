@@ -2,6 +2,9 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
+using UnityEngine.XR.Interaction.Toolkit.UI; // XRITK 的 TrackedDeviceGraphicRaycaster
+using UnityEngine.InputSystem.UI;             // Input System 的 TrackedDeviceRaycaster
+
 
 public class JoystickScrollRect : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
@@ -25,7 +28,25 @@ public class JoystickScrollRect : MonoBehaviour, IPointerEnterHandler, IPointerE
     public bool invertY = true;
 
     bool _hover;
+    
+    void Awake()
+    {
+        if (!scrollRect) Debug.LogWarning("[JoystickScrollRect] 未绑定 ScrollRect", this);
 
+        var canvas = scrollRect ? scrollRect.GetComponentInParent<Canvas>() : null;
+        bool hasXRITK = canvas && canvas.GetComponent<TrackedDeviceGraphicRaycaster>() != null;
+        bool hasInputSys = canvas && canvas.GetComponent<TrackedDeviceRaycaster>() != null;
+
+        if (!hasXRITK && !hasInputSys)
+            Debug.LogWarning("[JoystickScrollRect] Canvas 缺少 XR/UI Raycaster（TrackedDeviceGraphicRaycaster 或 TrackedDeviceRaycaster）", canvas);
+
+        var es = EventSystem.current;
+        if (es && es.GetComponent<StandaloneInputModule>())
+            Debug.LogWarning("[JoystickScrollRect] 检测到 StandaloneInputModule，建议只保留 XR UI/Input System UI 模块", es);
+    }
+
+
+    
     void OnEnable()
     {
         if (scrollAction != null) scrollAction.action.Enable();
