@@ -1,46 +1,41 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class ScrollTexture : MonoBehaviour
+public class URPScrollTexture_MPB : MonoBehaviour
 {
-    public int moveX = 2;
-    public int moveY = 2;
-    public float framesPerSecond = 10f;
+    public Vector2 speed = new Vector2(0.1f, 0.0f);
+    public string textureProperty = "_BaseMap"; // Shader Graph里请用它的 Reference 名
+    private int _stId;
 
-    //the current frame to display
-    private int index = 0;
+    private Renderer _r;
+    private MaterialPropertyBlock _mpb;
+    private Vector2 _tiling = Vector2.one;
+    private Vector2 _offset = Vector2.zero;
 
-    void Start()
+    void Awake()
     {
-        var renderer = GetComponent<Renderer>();
+        _r = GetComponent<Renderer>();
+        _mpb = new MaterialPropertyBlock();
 
-        StartCoroutine(updateTiling());
+        _stId = Shader.PropertyToID(textureProperty + "_ST");
 
-        //set the tile size of the texture (in UV units), based on the rows and columns
-        //Vector2 size = new Vector2(1f / widthX, 1f / heightY);
-        //renderer.sharedMaterial.SetTextureScale("_MainTex", size);
+        // 读取材质当前的Tiling/Offset作为起点
+        var mat = _r.sharedMaterial;
+        if (mat && mat.HasProperty(textureProperty))
+        {
+            _tiling = mat.GetTextureScale(textureProperty);
+            _offset = mat.GetTextureOffset(textureProperty);
+        }
     }
 
-    private IEnumerator updateTiling()
+    void Update()
     {
-        var renderer = GetComponent<Renderer>();
+        _offset += speed * Time.deltaTime;
+        _offset.x = Mathf.Repeat(_offset.x, 1f);
+        _offset.y = Mathf.Repeat(_offset.y, 1f);
 
-        while (true)
-        {
-            //move to the next index
-            index++;
-            //if (index >= rows * columns)
-              //  index = 0;
-
-            //split into x and y indexes    */
-            Vector2 offset = new Vector2((float)index / moveX, //x index
-                                          index / moveY);          //y index
-                                          
-            renderer.sharedMaterial.SetTextureOffset("_MainTex", offset);
-
-            yield return new WaitForSeconds(1f / framesPerSecond);
-        }
-
+        _r.GetPropertyBlock(_mpb);
+        // (tiling.x, tiling.y, offset.x, offset.y)
+        _mpb.SetVector(_stId, new Vector4(_tiling.x, _tiling.y, _offset.x, _offset.y));
+        _r.SetPropertyBlock(_mpb);
     }
 }
