@@ -3,7 +3,152 @@ guid: 81461ac7ac224a44b964c98ce92b6853
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 006 Tea Pot_material
+    second: {fileID: 2100000, guid: 06edebe21791d4859a9460ade9612c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02___Default
+    second: {fileID: 2100000, guid: 2ec449c44aace461daa1f0634e47ed7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Antlers_001
+    second: {fileID: 2100000, guid: 3f00410a0a5194cc093ede5bc73bc33e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CharlotteAssetsRoom03ReDoneOBJ_polySurface1SG3
+    second: {fileID: 2100000, guid: 9b3b18d4a23ec4c988db07aadd2202a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fly
+    second: {fileID: 2100000, guid: 7024c3c1024404d5b8cc2816bfca59bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 7dd8645aa1def4c8e9a3f283b0b95cc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: a386f456628b84c16b8a8590faa79269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 3d1668770a5f74d8d8c3121341571d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_0
+    second: {fileID: 2100000, guid: dea72aa60030e43188b8720b7c14b5ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_160
+    second: {fileID: 2100000, guid: 738bc34bb9d01493f89401e072198f97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_25
+    second: {fileID: 2100000, guid: 2f02351f925f84346ba18840755ebbf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_89
+    second: {fileID: 2100000, guid: 112e68e0cf6304834a6984922722a868, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skull_001
+    second: {fileID: 2100000, guid: d673ecd79699f4cec94193f6fc4c064e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth_001
+    second: {fileID: 2100000, guid: 917f8f4f633bb490f843b00d526a1646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_0_tex_0.jpg
+    second: {fileID: 2100000, guid: bcd1f6ec87bd8490e86d32c522dc3109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface1SG
+    second: {fileID: 2100000, guid: b3102f94024084175af3f84ba2636239, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arch
+    second: {fileID: 2100000, guid: d9e06ad7f99d84eefa1be28a90ac9c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: d5d1b528aea474ee3ac021b5cf67ed0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup
+    second: {fileID: 2100000, guid: 9cd1ed3124cb042e9842eb5d9e0db8fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2.001
+    second: {fileID: 2100000, guid: c7df073eff55c461089c94bb1440b3ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2SG
+    second: {fileID: 2100000, guid: 3cb1d67d264c64227b8b1a7bc9bf68f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3SG
+    second: {fileID: 2100000, guid: 311a042aa0946453fb5058be48230f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4SG
+    second: {fileID: 2100000, guid: d33d1f30a7f67419594cb8443fe0cdf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampPlastic
+    second: {fileID: 2100000, guid: 9df27b1c4d221402b9f8d77db631a7bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: magritte_txtr
+    second: {fileID: 2100000, guid: 3bc7ef5b34a3e4c2f8ccac21b00d0f25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skull_full_mtl
+    second: {fileID: 2100000, guid: c22375592beb14988b9ffa3c869fc7c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skull_full_mtl.001
+    second: {fileID: 2100000, guid: ac22e81019a2e49b3b71703a5dc05e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upright_piano_texture
+    second: {fileID: 2100000, guid: 4208eecbd9e7340ecb66692be48717a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upright_piano_texture35_
+    second: {fileID: 2100000, guid: 5e35e38c02b594d5d9a0509d4c543753, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

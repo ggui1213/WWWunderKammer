@@ -1434,7 +1434,6 @@ GameObject:
   - component: {fileID: 5826056641483426609}
   - component: {fileID: 5033801203051696737}
   - component: {fileID: -3600419006733414741}
-  - component: {fileID: 619204143473067498}
   m_Layer: 2
   m_Name: Customized XR Origin (XR Rig)
   m_TagString: Player
@@ -1586,21 +1585,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   joystickUI: {fileID: 908612241962826810}
   gripAction: {fileID: -9131375467403521404, guid: c348712bda248c246b8c49b3db54643f, type: 3}
---- !u!114 &619204143473067498
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1717954561962503725}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c774b06cef5cc4435ad1785c472106f2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rightNear: {fileID: 0}
-  rightRay: {fileID: 0}
-  rightLineVisual: {fileID: 0}
 --- !u!1 &1736946841710783410
 GameObject:
   m_ObjectHideFlags: 0
@@ -1931,7 +1915,7 @@ MonoBehaviour:
   m_text: "wwwunderkammer \xB7 Menu"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 0}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -2464,7 +2448,7 @@ MonoBehaviour:
   m_text: Quick Menu
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 0}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

@@ -47,7 +47,7 @@ public class BlockLocomotionOnUIHover : MonoBehaviour,
                 if (b is UnityEngine.XR.Interaction.Toolkit.Interactors.XRRayInteractor) continue;
                 if (b is XRBaseController) continue;
                 if (b is UnityEngine.XR.Interaction.Toolkit.Interactors.Visuals.XRInteractorLineVisual) continue;
-                if (b is LineRenderer) continue;
+                if (b.GetType().IsAssignableFrom(typeof(LineRenderer))) continue;
                 b.enabled = !block;
             }
         }

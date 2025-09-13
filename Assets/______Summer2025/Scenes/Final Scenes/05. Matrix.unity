@@ -14708,9 +14708,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 1800
-  moveY: 32
-  framesPerSecond: 60
+  speed: {x: 0.01, y: 0}
+  textureProperty: _BaseMap
 --- !u!1001 &248237629
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15541,6 +15540,18 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3692003163170134124, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
       propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3711315467601744495, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3711315467601744495, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3711315467601744495, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
+      propertyPath: m_SizeDelta.x
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3767400645628184019, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
@@ -26708,9 +26719,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 242
-  moveY: 2
-  framesPerSecond: 10
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!65 &411296176
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30895,9 +30905,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 242
-  moveY: 2
-  framesPerSecond: 10
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!65 &470071466
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -37824,9 +37833,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 242
-  moveY: 2
-  framesPerSecond: 10
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!65 &595841331
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -57178,9 +57186,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 60
-  moveY: 2
-  framesPerSecond: 20
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!65 &930929007
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -60551,9 +60558,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 242
-  moveY: 2
-  framesPerSecond: 10
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!65 &975242019
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -61026,9 +61032,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 60
-  moveY: 2
-  framesPerSecond: 20
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!65 &984037176
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -68938,9 +68943,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 200
-  moveY: 2
-  framesPerSecond: 40
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!1 &1115147348
 GameObject:
   m_ObjectHideFlags: 0
@@ -91764,9 +91768,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 60
-  moveY: 2
-  framesPerSecond: 20
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!65 &1531065099
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -110921,9 +110924,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 60
-  moveY: 2
-  framesPerSecond: 20
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!65 &1826972159
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -118762,9 +118764,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d0e3c5b63a490049b14950786ec503f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveX: 60
-  moveY: 2
-  framesPerSecond: 20
+  speed: {x: 0.1, y: 0}
+  textureProperty: _BaseMap
 --- !u!65 &1970929114
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -120196,6 +120197,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -6057140222963153312, guid: 6645e2aa7771d01499e0fb76900f0f1a, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 42745bae8f9144becba7320f47f4de90, type: 2}
     - target: {fileID: -4216859302048453862, guid: 6645e2aa7771d01499e0fb76900f0f1a, type: 3}
       propertyPath: m_RootOrder
       value: 1
