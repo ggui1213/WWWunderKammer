@@ -10,8 +10,8 @@ AnimatorStateMachine:
   m_Name: Base Layer
   m_ChildStates:
   - serializedVersion: 1
-    m_State: {fileID: -1039456745595933502}
-    m_Position: {x: 370, y: 290, z: 0}
+    m_State: {fileID: -6564340902368529385}
+    m_Position: {x: 321.42856, y: 194.39075, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -21,15 +21,15 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: -1039456745595933502}
---- !u!1102 &-1039456745595933502
+  m_DefaultState: {fileID: -6564340902368529385}
+--- !u!1102 &-6564340902368529385
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: blue_water_002|Action
+  m_Name: blue_water_002_blue_waterAction
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -42,7 +42,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: -4469733669279980924, guid: 175b56f45b55b4878a2e695a89f0e5d3, type: 3}
+  m_Motion: {fileID: 7400000, guid: a8ec9287373b44d65957c9baee67d5ea, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
