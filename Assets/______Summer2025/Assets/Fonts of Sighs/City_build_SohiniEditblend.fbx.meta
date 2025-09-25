@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d7c0ee9c924e94b0a885039db4995088
+guid: f8bdfd1ee3a758a46ae00161a7a17d9f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,37 +8,62 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Copper
-    second: {fileID: 2100000, guid: e640ce7fd6a4e4eaca8b108865d257f8, type: 2}
+    second: {fileID: 2100000, guid: 26331fbec08b08e4898f13b4ce8e10fe, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Copper.001
-    second: {fileID: 2100000, guid: 2aebf335c77874d26a2f94574ec3b677, type: 2}
+      name: Glyphs
+    second: {fileID: 2100000, guid: 342d3b1d893c27041afde057acaa00ab, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material
-    second: {fileID: 2100000, guid: db0b0899c07784ac99ad26e5e89001f0, type: 2}
+    second: {fileID: 2100000, guid: 72c6ac0dfeddede4fa0f7cd7dd718a0b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Material.001
-    second: {fileID: 2100000, guid: 384ce33af4ab24e149d8b1a16df0b696, type: 2}
+    second: {fileID: 2100000, guid: 0b23e201efd21de4fa32fda192da35ed, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.002
-    second: {fileID: 2100000, guid: a07bed3e54ead4732868f7e8c7a8a136, type: 2}
+      name: Material.013
+    second: {fileID: 2100000, guid: 26a97cb64edead544a42245111a3e405, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.003
-    second: {fileID: 2100000, guid: 881b21bb472ae416997f2930cf53bb22, type: 2}
+      name: SVGMat
+    second: {fileID: 2100000, guid: 55e5b85dbdae65249a920feb090bd3ac, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material_0
-    second: {fileID: 2100000, guid: 1233220a752a541bfb98add12099b10e, type: 2}
+      name: c
+    second: {fileID: 2100000, guid: fc6c050fcadbe314a94a0c39696b2df4, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ATopPedestal1000LightMap
+    second: {fileID: 2800000, guid: 2868828bf01cf2140b446426c4d1a7b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CarlaGannis_CarpetVerySmallPatternNormal
+    second: {fileID: 2800000, guid: fc5578d386c1c5a47b388aebf486aa89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Glyphs03Darker
+    second: {fileID: 2800000, guid: 63a9f5798a79b4346a82044315bc352f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wallpaper_Seamless_Stylized1
+    second: {fileID: 2800000, guid: fc16f9d2ca0eaa44b88a5a4251907b82, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: copper
+    second: {fileID: 2800000, guid: 750208a2766483c4a8a1ba89f85e4dd5, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
