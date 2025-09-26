@@ -383,7 +383,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 968028975659827690, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.000361802
+      value: -0.00066772435
       objectReference: {fileID: 0}
     - target: {fileID: 969735006472012550, guid: 3968a10563d5e4acd83f8321a4288f18, type: 3}
       propertyPath: m_AnchorMax.y
@@ -1750,13 +1750,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -0.0000009258487
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5866666021909216657, guid: 13696af672c6c4e7c8bb6ad670e196a9, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 13696af672c6c4e7c8bb6ad670e196a9, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1265308063}
+      addedObject: {fileID: 1265308066}
   m_SourcePrefab: {fileID: 100100000, guid: 13696af672c6c4e7c8bb6ad670e196a9, type: 3}
 --- !u!1001 &900476358
 PrefabInstance:
@@ -1948,23 +1949,28 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 13696af672c6c4e7c8bb6ad670e196a9, type: 3}
   m_PrefabInstance: {fileID: 804293120}
   m_PrefabAsset: {fileID: 0}
---- !u!320 &1265308063
-PlayableDirector:
+--- !u!95 &1265308066
+Animator:
+  serializedVersion: 7
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1265308060}
   m_Enabled: 1
-  serializedVersion: 3
-  m_PlayableAsset: {fileID: 11400000, guid: 0fb4906357ca4431f9dd51d41df7ff8d, type: 2}
-  m_InitialState: 1
-  m_WrapMode: 2
-  m_DirectorUpdateMode: 1
-  m_InitialTime: 0
-  m_SceneBindings: []
-  m_ExposedReferences:
-    m_References: []
+  m_Avatar: {fileID: 9000000, guid: 13696af672c6c4e7c8bb6ad670e196a9, type: 3}
+  m_Controller: {fileID: 9100000, guid: bb4758b2c99734aff9478e38c095f2d4, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1279627062
 GameObject:
   m_ObjectHideFlags: 0
