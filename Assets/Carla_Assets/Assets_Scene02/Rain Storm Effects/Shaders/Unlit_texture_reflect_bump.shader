@@ -22,7 +22,7 @@ Properties {
 
       fixed4 LightingNoLighting(SurfaceOutput s, fixed3 lightDir, fixed atten)
       	{
-      		fixed4 c;
+      		fixed4 c = fixed4(0, 0, 0, 0); // Initialize c
       		c.rgb = s.Albedo;
       		return c;
       	}
